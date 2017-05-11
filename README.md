@@ -1,6 +1,6 @@
 Simple example of React, Babel and webpack.
 
-Download the files at the root directory.
+Download the files at the root directory, then CD to that directory.
 
 ```
 npm install
